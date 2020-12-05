@@ -1,8 +1,8 @@
 # Color_task
 
-Task:- Find the Dominant color along with it, Find the color of Border in the image.
+**Task:-** Find the Dominant color along with it, Find the color of Border in the image.
 
-Approach:- Used color intensity of each pixel to find dominant & border color of Image.
+**Approach:-** Used color intensity of each pixel to find dominant & border color of Image.
 
 
 1. **Dominant color approach**
